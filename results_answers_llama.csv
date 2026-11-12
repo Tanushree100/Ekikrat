@@ -1,0 +1,217 @@
+model,id,source,grp,pred,abstained,flagged_ambiguous,correct,coverage,hallucinated
+llama,ambigqa_2248395039731877618,ambigqa,ambigqa|multipleQAs,"AMBIGUOUS: 
+1. Who: The person executed
+Answer: UNKNOWN
+2. Was executed by firing squad in Utah: The event occurred
+Answer: YES (multiple individuals, including Gary Gilmore in 1977)",False,True,True,0.024390243902439025,False
+llama,ambigqa_1884293144811705689,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_3916740640435538629,ambigqa,ambigqa|multipleQAs,Unknown,True,False,False,0.0,False
+llama,ambigqa_-8083480313418824194,ambigqa,ambigqa|multipleQAs,"AMBIGUOUS: 
+1. Bernardo's girlfriend in West Side Story is Anita.
+2. Bernardo's love interest in West Side Story is Anita, but he also has a romantic relationship with Maria.",False,True,True,0.125,False
+llama,ambigqa_-2838198901161425907,ambigqa,ambigqa|multipleQAs,13 Reasons Why season 1 came out in 2017.,False,False,False,0.0,True
+llama,ambigqa_-4798930890389088637,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_-3999662562068655028,ambigqa,ambigqa|multipleQAs,EVERY 10 YEARS,False,False,True,1.0,False
+llama,ambigqa_-7082373971902583330,ambigqa,ambigqa|multipleQAs,"AMBIGUOUS: 
+1. Blair and Serena from Gossip Girl - Constance Billard and Yale University
+2. Blair and Serena from other contexts - UNKNOWN",False,True,False,0.0,True
+llama,ambigqa_651294105754681460,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_492268617174359635,ambigqa,ambigqa|multipleQAs,TIGER,False,False,False,0.0,True
+llama,ambigqa_6769751506580038561,ambigqa,ambigqa|multipleQAs,The Lieutenant Governor of Texas serves as the president of the Texas Senate.,False,False,True,0.25,False
+llama,ambigqa_-1824443161858480246,ambigqa,ambigqa|multipleQAs,WESTERN FRONT: France and Belgium.,False,False,True,0.5,False
+llama,ambigqa_-4607362463147795459,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_1351054510212973354,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_-5366101085446253209,ambigqa,ambigqa|multipleQAs,EUROPE: Central and Eastern Europe.,False,False,True,0.3333333333333333,False
+llama,ambigqa_-3487913752502088582,ambigqa,ambigqa|multipleQAs,"November 17, 2017.",False,False,True,0.16666666666666666,False
+llama,ambigqa_7328567139296693948,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_-3873480976349741199,ambigqa,ambigqa|multipleQAs,"AMBIGUOUS: 
+1. In the 1982 film 'Tootee Ek Prem Katha', the lead actor is likely to be Raj Babbar.
+2. In the 1983 film 'Tootee Ek Prem Katha', the lead actor is likely to be Raj Babbar.",False,True,False,0.0,True
+llama,ambigqa_-5194108449751231910,ambigqa,ambigqa|multipleQAs,"July 21, 2007",False,False,True,0.125,False
+llama,ambigqa_-17314878580916020,ambigqa,ambigqa|multipleQAs,"ALAN ALDA (from the movie ""School's Out"")",False,False,False,0.0,True
+llama,ambigqa_6161609019788038960,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_6446590656957262079,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_-4561791635646149573,ambigqa,ambigqa|multipleQAs,1820 (Alien and Sedition Acts) and 1882 (Chinese Exclusion Act),False,False,False,0.0,True
+llama,ambigqa_-4995398567532229571,ambigqa,ambigqa|multipleQAs,Late 19th to early 20th century.,False,False,False,0.0,True
+llama,ambigqa_765055097611749335,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_8566894936587956100,ambigqa,ambigqa|multipleQAs,George Orwell.,False,False,False,0.0,True
+llama,ambigqa_1677327668044258189,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_4944157474974886918,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_9126317908039193136,ambigqa,ambigqa|multipleQAs,West.,False,False,True,0.5,False
+llama,ambigqa_-4819301786668343618,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_2722702892888192984,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_1333258915620535192,ambigqa,ambigqa|multipleQAs,BO DWIGHT (played by Billy Redden),False,False,True,0.3333333333333333,False
+llama,ambigqa_4588786007774587117,ambigqa,ambigqa|multipleQAs,"Nancy Mulligan is a song by Ed Sheeran, but it is about his ancestors, not a specific person.",False,False,False,0.0,True
+llama,ambigqa_1040777011551693796,ambigqa,ambigqa|multipleQAs,The Vice President of India.,False,False,False,0.0,True
+llama,ambigqa_-3675478481857186593,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_-7290956289748315803,ambigqa,ambigqa|multipleQAs,"Los Angeles, California.",False,False,False,0.0,True
+llama,ambigqa_-4262537272967881001,ambigqa,ambigqa|multipleQAs,"AMBIGUOUS: 
+1. Adult Swim (US) 
+2. Netflix (global, except US)",False,True,True,0.5,False
+llama,ambigqa_6945133188536552979,ambigqa,ambigqa|multipleQAs,Ancient Athens and Rome.,False,False,False,0.0,True
+llama,ambigqa_2941611080095900320,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_5131962368242851373,ambigqa,ambigqa|multipleQAs,UNKNOWN,True,False,False,0.0,False
+llama,ambigqa_1322622723544876362,ambigqa,ambigqa|singleAnswer,11 November 1920,False,False,False,,True
+llama,ambigqa_-1327179339177796042,ambigqa,ambigqa|singleAnswer,3,False,False,True,,False
+llama,ambigqa_-6390356493124402436,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-6579757957393673935,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-3450079228055726450,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-8066401577277886429,ambigqa,ambigqa|singleAnswer,"CAB: C - Call, A - Airway, B - Breathing.",False,False,False,,True
+llama,ambigqa_-508402482622805698,ambigqa,ambigqa|singleAnswer,Architect.,False,False,True,,False
+llama,ambigqa_-8487439308373184287,ambigqa,ambigqa|singleAnswer,Martin.,False,False,False,,True
+llama,ambigqa_6790202246175627171,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-6564184516057626254,ambigqa,ambigqa|singleAnswer,Christine Baranski,False,False,False,,True
+llama,ambigqa_-7055425131853839213,ambigqa,ambigqa|singleAnswer,CIRCULATION: They are distributed throughout the bloodstream.,False,False,False,,True
+llama,ambigqa_638264822619221569,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_5865574069485946442,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-8192912026823433918,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-670550696659282068,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_1477604713705249113,ambigqa,ambigqa|singleAnswer,24 episodes.,False,False,True,,False
+llama,ambigqa_-3780047612694144359,ambigqa,ambigqa|singleAnswer,"Christina Aguilera did not write the song, but the song ""All About That Bass"" was written by  Kelly Clarkson was not the writer, but the song ""All About That Bass"" was written by  Kelly Blackstock,  Kelly Clarkson was not the writer, but the song ""All About That Bass"" was written by  Kelly Blackstock,  Kelly Clarkson was not the writer, but the song ""All About That Bass"" was written by  Kelly Blackstock,  Kelly Clarkson was not the writer, but the song ""All About That Bass"" was written by  Kelly",False,False,False,,True
+llama,ambigqa_-8441809914251919864,ambigqa,ambigqa|singleAnswer,Stevie Wonder,False,False,True,,False
+llama,ambigqa_1831919131775885164,ambigqa,ambigqa|singleAnswer,Caesar was told.,False,False,False,,True
+llama,ambigqa_2350042513427852291,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_907157114077141157,ambigqa,ambigqa|singleAnswer,"AMBIGUOUS: 
+1. Vegetable oil (e.g., coconut oil, palm oil) - YES
+2. Other oil types (e.g., olive oil, sunflower oil) - NO",False,True,True,,False
+llama,ambigqa_372089893158781023,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_2694998838840066722,ambigqa,ambigqa|singleAnswer,John Amos,False,False,False,,True
+llama,ambigqa_6909576944572424269,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_1630351595345420713,ambigqa,ambigqa|singleAnswer,"Pelé and Ronaldo are tied with 77 goals each, but the record is held by Pelé and Ronaldo are tied with 77 goals each, but the record is held by Pelé and Ronaldo are tied with 77 goals each, but the record is held by Pelé and Ronaldo are tied with 77 goals each, but the record is held by Pelé and Ronaldo are tied with 77 goals each, but the record is held by Pelé and Ronaldo are tied with 77 goals each, but the record is held by Pelé and Ronaldo are tied with 77 goals each,",False,False,True,,False
+llama,ambigqa_48039832164228835,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_8251071731814388740,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-5942352520455511076,ambigqa,ambigqa|singleAnswer,"UNDER THE SKIN, AROUND ORGANS.",False,False,False,,True
+llama,ambigqa_7648244006496765167,ambigqa,ambigqa|singleAnswer,"Shepherdstown, St. Albans, Sistersville, Shinnston, South Charleston, Scott Depot, Scotts Run, Sistersville, Star City, Spencer, Salem, Shady Spring, Scott, St. Marys, St. George, St. Clairsville is not in WV but St. George is, St. George is in Mason county, St. George is in Mason county, St. George is in Mason county, St. George is in Mason county, St. George is in Mason county, St. George is in Mason county, St. George is in Mason county",False,False,True,,False
+llama,ambigqa_-1603700488187923628,ambigqa,ambigqa|singleAnswer,Michael Rooker,False,False,True,,False
+llama,ambigqa_1068621638237331481,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-4611518254999039794,ambigqa,ambigqa|singleAnswer,RECEIVER,False,False,True,,False
+llama,ambigqa_-7961237047668219930,ambigqa,ambigqa|singleAnswer,Rhett Butler,False,False,True,,False
+llama,ambigqa_-1785228148860434923,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_4559014979139188110,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-2235196533462771212,ambigqa,ambigqa|singleAnswer,JOHN F. KENNEDY,False,False,True,,False
+llama,ambigqa_4398589060680652602,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_-8718965954599135403,ambigqa,ambigqa|singleAnswer,John Roberts,False,False,True,,False
+llama,ambigqa_-6744974215597641316,ambigqa,ambigqa|singleAnswer,UNKNOWN,True,False,False,,False
+llama,ambigqa_1335662795886576445,ambigqa,ambigqa|singleAnswer,18,False,False,False,,True
+llama,squad_571cbe35dd7acb1400e4c140,squad_v2,squad_v2|answerable,"UNANSWERABLE
+
+The context does not mention the style of sensing, but rather mentions ""spectrophotometric"" and ""remote sensing"" which are types of sensing, but does not specify a style.",True,False,True,,False
+llama,squad_5727e9523acd2414000def98,squad_v2,squad_v2|answerable,"The term that describes the difference between what higher-paid and lower-paid professionals earn is the ""productivity gap"".",False,False,True,,False
+llama,squad_57286f373acd2414000df9dc,squad_v2,squad_v2|answerable,They wished Buyantu didn't adopt mainstream Chinese culture.,False,False,True,,False
+llama,squad_5730208fa23a5019007fcdf0,squad_v2,squad_v2|answerable,Palestine.,False,False,True,,False
+llama,squad_5727c55bff5b5019007d94d0,squad_v2,squad_v2|answerable,1945,False,False,True,,False
+llama,squad_572841772ca10214002da1a9,squad_v2,squad_v2|answerable,"UNANSWERABLE
+
+The context mentions that the lower rainfall in the Amazon during the LGM was ""almost certainly associated with reduced moist tropical vegetation cover in the basin"", but it does not provide a direct cause for the lower rainfall.",True,False,True,,False
+llama,squad_571cde695efbb31900334e17,squad_v2,squad_v2|answerable,Two biomolecules contain no oxygen: squalene and the carotenes.,False,False,False,,True
+llama,squad_5733e5a14776f4190066145e,squad_v2,squad_v2|answerable,The 1752 Treaty of Logstown.,False,False,True,,False
+llama,squad_57376828c3c5551400e51ebd,squad_v2,squad_v2|answerable,"To determine the acceleration of the rope when two people are pulling it, you need to know both the magnitude and the direction of both forces. If you don't have this information, the situation is ambiguous, and it's impossible to determine the",False,False,False,,True
+llama,squad_5725bcb6271a42140099d0ef,squad_v2,squad_v2|answerable,"The United States was considered a ""principal hostile country"" by OPEC, as stated in the OAPEC proclamation at their Kuwait meeting.",False,False,False,,True
+llama,squad_571cda1bdd7acb1400e4c199,squad_v2,squad_v2|answerable,Compressed gas.,False,False,True,,False
+llama,squad_571ce7f25efbb31900334e42,squad_v2,squad_v2|answerable,"Aside from oxides, various complex silicates (in silicate minerals) comprise a large portion of the Earth's crust.",False,False,True,,False
+llama,squad_56e1ce08e3433e14004231a8,squad_v2,squad_v2|answerable,A problem set that is hard for the expression NP can also be stated as NP-hard problems.,False,False,True,,False
+llama,squad_572ff07304bcaa1900d76ef8,squad_v2,squad_v2|answerable,"UNANSWERABLE
+
+The context does not mention the country that the Moselle takes the Rhine to, but rather mentions that northeastern France, most of Luxembourg, and a very small part of Belgium drain to the Rhine via the Mos",True,False,True,,False
+llama,squad_572757bef1498d1400e8f692,squad_v2,squad_v2|answerable,The U.S. South.,False,False,True,,False
+llama,squad_57285ed5ff5b5019007da1b6,squad_v2,squad_v2|answerable,"The Chinese name for the Yuan dynasty is Chinese: 元朝; pinyin: Yuán Cháo, or Chinese: 大元; pinyin: Dà Yuán.",False,False,True,,False
+llama,squad_572869b84b864d19001649b1,squad_v2,squad_v2|answerable,"Two, initially, with a later addition of a fourth class.",False,False,False,,True
+llama,squad_57274beff1498d1400e8f5e4,squad_v2,squad_v2|answerable,An unaided independent school.,False,False,True,,False
+llama,squad_57337ddc4776f41900660bbb,squad_v2,squad_v2|answerable,About 15 kilometres (9 miles),False,False,True,,False
+llama,squad_57275409708984140094dc35,squad_v2,squad_v2|answerable,Government schools formerly reserved for white children.,False,False,True,,False
+llama,squad_572648d1708984140094c15e,squad_v2,squad_v2|answerable,Provided high-speed interconnection between NSF-sponsored supercomputing centers and select access points in the United States.,False,False,True,,False
+llama,squad_57286951ff5b5019007da20f,squad_v2,squad_v2|answerable,Larry Ellison,False,False,True,,False
+llama,squad_572ffb02b2c2fd14005686b8,squad_v2,squad_v2|answerable,The Upper Rhine Graben.,False,False,True,,False
+llama,squad_57287c142ca10214002da3d0,squad_v2,squad_v2|answerable,Guo Shoujing.,False,False,True,,False
+llama,squad_57274f49f1498d1400e8f620,squad_v2,squad_v2|answerable,Presbyterian,False,False,True,,False
+llama,squad_5733f1784776f41900661577,squad_v2,squad_v2|answerable,Fort Duquesne.,False,False,True,,False
+llama,squad_5728eff82ca10214002daadf,squad_v2,squad_v2|answerable,"The blood–brain barrier, blood–cerebrospinal fluid barrier, and similar fluid–brain barriers.",False,False,True,,False
+llama,squad_5730b4282461fd1900a9cfc9,squad_v2,squad_v2|answerable,Mao Zedong,False,False,True,,False
+llama,squad_57268b43dd62a815002e88f2,squad_v2,squad_v2|answerable,The legislature of the European Union is principally composed of the European Parliament and the Council of the European Union.,False,False,True,,False
+llama,squad_5733d5704776f4190066130f,squad_v2,squad_v2|answerable,"The St. Lawrence River valley, Acadia (present-day New Brunswick and parts of Nova Scotia, including Île Royale (present-day Cape Breton Island)), New Orleans, Biloxi, Mississippi, Mobile, Alabama, and small settlements",False,False,False,,True
+llama,squad_572843304b864d1900164849,squad_v2,squad_v2|answerable,1896,False,False,True,,False
+llama,squad_5727f7523acd2414000df10d,squad_v2,squad_v2|answerable,Scandinavia.,False,False,True,,False
+llama,squad_57286951ff5b5019007da212,squad_v2,squad_v2|answerable,James O. McKinsey,False,False,True,,False
+llama,squad_572883a33acd2414000dfa7b,squad_v2,squad_v2|answerable,"Besh Baliq, Almaliq, and Samarqand.",False,False,True,,False
+llama,squad_5727515f708984140094dc15,squad_v2,squad_v2|answerable,The nineteenth century.,False,False,True,,False
+llama,squad_5737534ec3c5551400e51eae,squad_v2,squad_v2|answerable,The equality of forces between two objects exerting force on each other is that F and −F are equal in magnitude and opposite in direction.,False,False,True,,False
+llama,squad_57339ad74776f41900660e87,squad_v2,squad_v2|answerable,events and festivals,False,False,True,,False
+llama,squad_5737898f1c45671900574498,squad_v2,squad_v2|answerable,Albert Einstein.,False,False,True,,False
+llama,squad_57293e983f37b3190047818b,squad_v2,squad_v2|answerable,In 2001.,False,False,True,,False
+llama,squad_5728f50baf94a219006a9e57,squad_v2,squad_v2|answerable,"According to the context, giving a defiant speech can sometimes be more harmful for the individual because it may suggest a lack of remorse, an attempt to avoid responsibility for their actions, and even a likelihood of repeating their illegal actions, which can lead",False,False,True,,False
+llama,squad_5ad268a9d7d075001a42927f,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5ad2a3b3d7d075001a429d5d,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5ad22cd0d7d075001a428619,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context mentions an experiment conducted by Joseph Priestley on August 1, 1774, but does not mention an experiment on August 4, 1774.",True,False,,,False
+llama,squad_5a55319c134fea001a0e19be,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context mentions that the backbone was upgraded to OC-48c, but it does not specify when the OC-12c was upgraded.",True,False,,,False
+llama,squad_5a7b064b21c2de001afe9ce5,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context mentions that the Fresno Fairgrounds was utilized as an assembly center, but it does not specify the area of Fresno where the fairgrounds were located.",True,False,,,False
+llama,squad_5a637a8868151a001a922307,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context mentions an outbreak of typhoid in 1854, but it does not specify the cause of death as racism violence.",True,False,,,False
+llama,squad_5ad55ee35b96ef001a10ace7,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5a82432131013a001a33536b,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context does not mention the state where Yale is located.",True,False,,,False
+llama,squad_5ad27e30d7d075001a429703,squad_v2,squad_v2|unanswerable,acceleration due to gravity,False,False,,,True
+llama,squad_5a638ffe68151a001a922383,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5a0c6a7ef5590b0018dab3fb,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5ad40a72604f3c001a3fffaa,squad_v2,squad_v2|unanswerable,Arabic numerals.,False,False,,,True
+llama,squad_5a669ca9f038b7001ab0c057,squad_v2,squad_v2|unanswerable,A major part of the Internet backbone.,False,False,,,True
+llama,squad_5a679db8f038b7001ab0c351,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context only mentions the certificates that Irish private schools must work towards, not private schools worldwide.",True,False,,,False
+llama,squad_5a8917433b2508001a72a4b2,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5ad26797d7d075001a429237,squad_v2,squad_v2|unanswerable,Newtonian mechanics.,False,False,,,True
+llama,squad_5ad4e56d5b96ef001a10a599,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context does not contain information about what makes detection by killer T cells more likely.",True,False,,,False
+llama,squad_5a6ce8ea4eec6b001a80a6b8,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context does not contain the answer to this question.",True,False,,,False
+llama,squad_5a665142846392001a1e1abd,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context does not mention the taxman's political philosophy, only Thoreau's advice to him.",True,False,,,False
+llama,squad_5ad2a58bd7d075001a429dcf,squad_v2,squad_v2|unanswerable,"~11,700 years ago",False,False,,,True
+llama,squad_5ad3bf63604f3c001a3fef5c,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context mentions Newcomen's atmospheric engines, but it does not specify the type of motion they produced. It only mentions that they were large compared to the amount of power they produced.",True,False,,,False
+llama,squad_5a8945a43b2508001a72a585,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context does not contain the information about general xy.",True,False,,,False
+llama,squad_5a38c16aa4b263001a8c1903,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5a0c96fbf5590b0018dab486,squad_v2,squad_v2|unanswerable,Protecting their tribal lands from commercial interests.,False,False,,,True
+llama,squad_5a5918ff3e1742001a15cf7f,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context mentions that optical microscopy identifies minerals through their different properties in plane-polarized and cross-polarized light, but it does not mention identifying individual locations.",True,False,,,False
+llama,squad_5a67dedd8476ee001a58a750,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context only mentions that private schools have ""independent control of their student admissions and course content"" but does not provide information on how course content is provided.",True,False,,,False
+llama,squad_5a2ecb43a83784001a7d248f,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context does not contain information about the origin of the Y. p. orientalis genome.",True,False,,,False
+llama,squad_5acfa71b77cf76001a68572f,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5ad28173d7d075001a4297fd,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5ad03e5077cf76001a686ed6,squad_v2,squad_v2|unanswerable,A member of the Scottish Parliament can introduce a bill as a private member.,False,False,,,True
+llama,squad_5a838a2ee60761001a2eb797,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context does not mention the location of the mouth on an ""Aboral"" specifically, but it does mention that the mouth and aboral organ are aligned in the middle of opposite edges of the ribbon.",True,False,,,False
+llama,squad_5a2ec431a83784001a7d2455,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5ad3a839604f3c001a3feaf4,squad_v2,squad_v2|unanswerable,"Céloron threatened ""Old Briton"" with severe consequences if he continued to trade with the British.",False,False,,,True
+llama,squad_5a8257efe60761001a2eb1d2,squad_v2,squad_v2|unanswerable,Baroness Shirley Williams.,False,False,,,True
+llama,squad_5ad3ea77604f3c001a3ff6df,squad_v2,squad_v2|unanswerable,Variable steam cut off.,False,False,,,True
+llama,squad_5ad25d39d7d075001a428edc,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context only mentions 23 developed countries and the 50 states of the US, but does not mention undeveloped countries.",True,False,,,False
+llama,squad_5a7b11bb21c2de001afe9d44,squad_v2,squad_v2|unanswerable,UNANSWERABLE,True,False,,,False
+llama,squad_5a67d87ef038b7001ab0c48e,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context does not contain information about the highest range a student would pay when boarding in a Scottish school.",True,False,,,False
+llama,squad_5a3e44ea378766001a002534,squad_v2,squad_v2|unanswerable,"UNANSWERABLE
+
+The context does not contain the answer to who were specifically intimidated by the investigation.",True,False,,,False
+llama,squad_5a551328134fea001a0e18d8,squad_v2,squad_v2|unanswerable,A computer time-sharing service.,False,False,,,True
