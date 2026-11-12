@@ -1,6 +1,5 @@
 # Ekikrat
 The amalgamation for detecting Hallucination, Ambiguity and Semantic Understanding
-# Ekikrat
 
 **Detecting grammatical correctness, ambiguity and hallucination in question answering**
 
